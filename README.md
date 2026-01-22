@@ -22,6 +22,16 @@
   Handbill is an innovative mobile platform currently under active development. Its purpose is to explore new ways to deliver advertisements and connect businesses with people using mobile devices. While the project is still being built, it aims to combine technology, analytics, and user engagement to rethink mobile advertising in a secure and ethical manner.
 </p>
 
+<h2>Team</h2>
+<p>Meet the core team behind Handbill:</p>
+<ul>
+  <li><strong>Charles Livingstone Ehlah</strong> – Chief Executive Officer (C.E.O.)</li>
+  <li><strong>Solomon Yaw Adeklo</strong> – Chief Information Officer (C.I.O.)</li>
+  <li><strong>Stephen Kumah</strong> – Chief Technology Officer (C.T.O.)</li>
+  <li><strong>Emmanuel Ekpe (Elexy)</strong> – Senior Software Engineer / Cyber Security Expert</li>
+</ul>
+
+
 <h2>Project Status</h2>
 <ul>
   <li>🚧 Active development</li>
