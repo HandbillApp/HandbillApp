@@ -57,6 +57,9 @@
   This repository will be updated regularly with progress reports, development updates, and future features. Contributions are not open at this stage, but we welcome ideas and collaboration inquiries through our contact channels.
 </p>
 
+<p>
+  ⚠️ Please note: This project is <strong>not open-source</strong>. The source code is private and will remain confidential on GitHub. Access to the code is restricted to authorized team members only. This repository is intended solely to showcase the project, its progress, and conceptual illustrations.
+</p>
 
 <hr>
 
