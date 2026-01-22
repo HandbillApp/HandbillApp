@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Handbill GitHub</title>
+ 
 </head>
 <body>
 
@@ -33,7 +33,7 @@
 </p>
 
 <div style="text-align:center;">
-  <img src="billboard.png" alt="Smartphone Billboard Concept" style="max-width:100%;height:auto;">
+  <img src="billboard.png" alt="Smartphone Billboard Concept" style="max-width:30%;height:auto;">
   <p><em>Example illustration of a mobile device showing ad content</em></p>
 </div>
 
@@ -47,7 +47,7 @@
   <li>Provide a foundation for future features that connect businesses and users</li>
   <li>Maintain privacy and ethical standards for all users</li>
 </ul>
- <img src="handbillflyer.png" alt="Smartphone Billboard Concept" style="max-width:100%;height:auto;">
+ <img src="handbillflyer.png" alt="Smartphone Billboard Concept" style="max-width:30%;height:auto;">
 
 <h2>Stay Updated</h2>
 <p>
@@ -55,7 +55,7 @@
 </p>
 
 <div style="text-align:center;">
-  <img src="loghandbill.jpg" alt="Handbill Logo" style="max-width:50%;height:auto;">
+  <img src="loghandbill.jpg" alt="Handbill Logo" style="max-width:30%;height:auto;">
 </div>
 
 <hr>
