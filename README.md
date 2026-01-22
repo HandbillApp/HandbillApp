@@ -33,7 +33,7 @@
 </p>
 
 <div style="text-align:center;">
-  <img src="https://via.placeholder.com/600x300?text=Smartphone+Billboard+Concept" alt="Smartphone Billboard Concept" style="max-width:100%;height:auto;">
+  <img src="billboard.png" alt="Smartphone Billboard Concept" style="max-width:100%;height:auto;">
   <p><em>Example illustration of a mobile device showing ad content</em></p>
 </div>
 
@@ -47,6 +47,7 @@
   <li>Provide a foundation for future features that connect businesses and users</li>
   <li>Maintain privacy and ethical standards for all users</li>
 </ul>
+ <img src="handbillflyer.png" alt="Smartphone Billboard Concept" style="max-width:100%;height:auto;">
 
 <h2>Stay Updated</h2>
 <p>
@@ -54,7 +55,7 @@
 </p>
 
 <div style="text-align:center;">
-  <img src="https://via.placeholder.com/600x200?text=Handbill+Logo" alt="Handbill Logo" style="max-width:50%;height:auto;">
+  <img src="loghandbill.jpg" alt="Handbill Logo" style="max-width:50%;height:auto;">
 </div>
 
 <hr>
