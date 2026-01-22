@@ -7,6 +7,9 @@
 <body>
 
 <h1 style="text-align:center;">Handbill</h1>
+<div style="text-align:center;">
+  <img src="loghandbill.jpg" alt="Handbill Logo" style="max-width:100px;height:100px;">
+</div>
 
 <p style="text-align:center;">
   <em>Turning smartphones into personal billboards</em>
@@ -33,7 +36,7 @@
 </p>
 
 <div style="text-align:center;">
-  <img src="billboard.png" alt="Smartphone Billboard Concept" style="max-width:30%;height:auto;">
+  <img src="billboard.png" alt="Smartphone Billboard Concept" style="max-width:150px%;height:150px;">
   <p><em>Example illustration of a mobile device showing ad content</em></p>
 </div>
 
@@ -47,16 +50,13 @@
   <li>Provide a foundation for future features that connect businesses and users</li>
   <li>Maintain privacy and ethical standards for all users</li>
 </ul>
- <img src="handbillflyer.png" alt="Smartphone Billboard Concept" style="max-width:30%;height:auto;">
+ <img src="handbillflyer.png" alt="Smartphone Billboard Concept" style="max-width:150px;height:150px;">
 
 <h2>Stay Updated</h2>
 <p>
   This repository will be updated regularly with progress reports, development updates, and future features. Contributions are not open at this stage, but we welcome ideas and collaboration inquiries through our contact channels.
 </p>
 
-<div style="text-align:center;">
-  <img src="loghandbill.jpg" alt="Handbill Logo" style="max-width:30%;height:auto;">
-</div>
 
 <hr>
 
