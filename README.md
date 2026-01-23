@@ -25,9 +25,9 @@
 <h2>Team</h2>
 <p>Meet the core team behind Handbill:</p>
 <ul>
-  <li><strong>Charles Livingstone Ehlah</strong> – Chief Executive Officer (C.E.O.) | Ghanaian </li>
-  <li><strong>Solomon Yaw Adeklo</strong> – Chief Information Officer (C.I.O.)  | Ghanaian - (https://github.com/solomonyaw) </li>
-  <li><strong>Stephen Kumah</strong> – Chief Technology Officer (C.T.O.)  | Ghanaian </li>
+  <li><strong>Charles Livingstone Ehlah</strong> – Chief Executive Officer (C.E.O.) | Ghanaian <img src="https://flagicons.lipis.dev/flags/4x3/gh.svg" alt="Handbill Logo" style="max-width:30px;height:30px;"> </li>
+  <li><strong>Solomon Yaw Adeklo</strong> – Chief Information Officer (C.I.O.)  | Ghanaian <img src="https://flagicons.lipis.dev/flags/4x3/gh.svg" alt="Handbill Logo" style="max-width:30px;height:30px;"> - (https://github.com/solomonyaw) </li>
+  <li><strong>Stephen Kumah</strong> – Chief Technology Officer (C.T.O.)  | Ghanaian <img src="https://flagicons.lipis.dev/flags/4x3/gh.svg" alt="Handbill Logo" style="max-width:30px;height:30px;">  </li>
   <li><strong>Emmanuel Ekpe (Elexy)</strong> – Senior Software Engineer / Blockchain Developer/ Cyber Security Expert  | Nigerian - (https://github.com/Elexy101))</li>  
 </ul>
 
