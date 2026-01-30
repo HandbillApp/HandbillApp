@@ -42,7 +42,7 @@
 <h2>Concept Illustration</h2>
 <h3>Watch our Handbill song on Youtube which creatively captures the vision behind the platform by clicking on the image below<h3>
   <a href="https://www.youtube.com/watch?v=2_sEfXOZ4f8">
-    <img src="videosonghandbill.PNG" alt="DESCRIPTION_OF_IMAGE" height=300px width=300px>
+    <img src="videosonghandbill.PNG" alt="DESCRIPTION_OF_IMAGE" height=500px width=500px>
 </a>
 
 <p>
