@@ -40,6 +40,8 @@
 </ul>
 
 <h2>Concept Illustration</h2>
+<h3>Watch our Handbill song on Youtube which creatively captures the vision behind the platform by clicking on the image below<h3>
+  which creatively captures the vision behind the platform.
 <p>
   Handbill is designed to make smartphones act as personal billboards for users. Below is a placeholder illustration showing how mobile devices can display content dynamically:
 </p>
