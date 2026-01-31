@@ -5,7 +5,7 @@
 
 </head>
 <body>
-<div style="text-align:center; margin-top:0px;margin-bottom:0px;">
+<div style="text-align:center; margin-top:0px;margin-bottom:0px;background-color:blue;">
   <img src="coverimage.png" class="cover" alt="Handbill Logo" style="max-width:4000px;height:550px;">
 </div>
 <h1 style="text-align:center;">Handbill</h1>
