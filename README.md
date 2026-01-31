@@ -2,11 +2,17 @@
 <html>
 <head>
   <meta charset="UTF-8">
- 
+ <style>
+   .cover{
+     margin-top:0px;
+     margin-bottom:0px;
+     
+   }
+ </style>
 </head>
 <body>
 <div style="text-align:center;">
-  <img src="coverimage.png" alt="Handbill Logo" style="max-width:4000px;height:550px;">
+  <img src="coverimage.png" class="cover" alt="Handbill Logo" style="max-width:4000px;height:550px;">
 </div>
 <h1 style="text-align:center;">Handbill</h1>
 <div style="text-align:center;">
