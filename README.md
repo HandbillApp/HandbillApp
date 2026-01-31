@@ -5,6 +5,10 @@
  
 </head>
 <body>
+<div style="text-align:center;">
+  <img src="coverimage.png" alt="Handbill Logo" style="max-width:600px;height:250px;">
+</div>
+
 
 <h1 style="text-align:center;">Handbill</h1>
 <div style="text-align:center;">
