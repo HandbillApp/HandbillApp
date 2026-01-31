@@ -6,10 +6,8 @@
 </head>
 <body>
 <div style="text-align:center;">
-  <img src="coverimage.png" alt="Handbill Logo" style="max-width:2000px;height:350px;">
+  <img src="coverimage.png" alt="Handbill Logo" style="max-width:4000px;height:350px;">
 </div>
-
-
 <h1 style="text-align:center;">Handbill</h1>
 <div style="text-align:center;">
   <img src="loghandbill.jpg" alt="Handbill Logo" style="max-width:150px;height:150px;">
