@@ -31,6 +31,7 @@
   <li><strong>Solomon Yaw Adeklo</strong> – Chief Information Officer (C.I.O.)  | Ghanaian <img src="https://flagicons.lipis.dev/flags/4x3/gh.svg" alt="Handbill Logo" style="max-width:10px;height:10px;"> - (https://github.com/solomonyaw) </li>
   <li><strong>Stephen Kumah</strong> – Chief Technology Officer (C.T.O.)  | Ghanaian <img src="https://flagicons.lipis.dev/flags/4x3/gh.svg" alt="Handbill Logo" style="max-width:10px;height:10px;">  </li>
   <li><strong>Emmanuel Ekpe (Elexy)</strong> – Senior Software Engineer / Blockchain Developer/ Cyber Security Expert  | Nigerian <img src="https://flagicons.lipis.dev/flags/4x3/ng.svg" alt="Handbill Logo" style="max-width:10px;height:10px;">  - (https://github.com/Elexy101))</li>  
+  <li><strong>Kofi Dankwa</strong> – Full Stack Developer / System Administrator  | Ghanaian <img src="https://flagicons.lipis.dev/flags/4x3/gh.svg" alt="Handbill Logo" style="max-width:10px;height:10px;">  </li>>(https://www.linkedin.com/in/prince-dankwa-bright-31236a87/)
 </ul>
 
 <h2>Project Status</h2>
