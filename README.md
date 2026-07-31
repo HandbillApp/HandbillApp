@@ -16,7 +16,9 @@
 <p style="text-align:center;">
   <em>Turning smartphones into personal billboards</em>
 </p>
-![](https://komarev.com/ghpvc/?username=handbillapp&abbreviated=true)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=handbillapp&label=Profile%20views&color=0e75b6&style=flat" alt="solomonyaw" /> </p>
+
 <p align="center"> <img  align="center" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/></p>
 
 <hr>
